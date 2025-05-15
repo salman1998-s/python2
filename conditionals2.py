@@ -25,4 +25,4 @@ elif choice == "/" :
 
 else :
  print("Invalid choice")
-# The code above is a simple calculator that performs addition, subtraction, multiplication, and division based on user input.
+# The code above is a simple calculator that performs addition, subtraction, multiplication, and division based on user input
